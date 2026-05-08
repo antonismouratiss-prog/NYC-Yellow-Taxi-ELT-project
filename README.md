@@ -1,10 +1,10 @@
-# NYC Yellow Taxi — ELT Pipeline on Databricks
+# NYC Yellow Taxi — ETL Pipeline on Databricks
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logo=delta&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-End-to-end ELT pipeline for NYC Yellow Taxi trip data built on Databricks using the Medallion Architecture (Bronze → Silver → Gold). The pipeline ingests raw trip records, applies data quality rules, and produces business-level aggregations using PySpark and Delta Lake.
+End-to-end ETL pipeline for NYC Yellow Taxi trip data built on Databricks using the Medallion Architecture (Bronze → Silver → Gold). The pipeline ingests raw trip records, applies data quality rules, and produces business-level aggregations using PySpark and Delta Lake.
 
 ---
 
